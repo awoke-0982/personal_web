@@ -1,0 +1,208 @@
+.group-child,
+.sign-in-to {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.group-child {
+  border-radius: 10px;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 64px rgba(0, 0, 0, 0.05);
+  border: 0.5px solid #878787;
+  box-sizing: border-box;
+  width: 505px;
+  height: 701px;
+}
+.sign-in-to {
+  font-weight: 500;
+}
+.lorem-ipsum-is,
+.sign-in-to-parent {
+  position: absolute;
+  left: 0;
+  width: 260px;
+}
+.lorem-ipsum-is {
+  top: 48px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+}
+.sign-in-to-parent {
+  top: 67px;
+  height: 72px;
+}
+.phone-number,
+.welcome {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.welcome {
+  font-size: 25px;
+  font-weight: 300;
+}
+.phone-number {
+  width: 92.2%;
+  display: inline-block;
+}
+.instance-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-white);
+  border: 0.6px solid var(--color-gray-100);
+  box-sizing: border-box;
+}
+.enter-your-user {
+  position: absolute;
+  top: 32.2%;
+  left: 6.38%;
+  font-weight: 300;
+}
+.rectangle-group {
+  position: absolute;
+  height: 64.13%;
+  width: 100%;
+  top: 35.87%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkgray);
+}
+.phone-number-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 423px;
+  height: 92px;
+}
+.invisible-1-icon {
+  position: absolute;
+  top: 52px;
+  left: 374px;
+  width: 21px;
+  height: 21px;
+  overflow: hidden;
+}
+.group-item,
+.instance-parent {
+  position: absolute;
+  top: 130px;
+  left: 0;
+  width: 423px;
+  height: 92px;
+}
+.group-item {
+  top: 3px;
+  background-color: var(--color-white);
+  border: 1px solid var(--c6);
+  box-sizing: border-box;
+  width: 15px;
+  height: 15px;
+}
+.forgot-password,
+.rememebr-me {
+  position: absolute;
+  top: 0;
+  left: 25px;
+  font-weight: 300;
+}
+.forgot-password {
+  left: 315px;
+  color: #4d4d4d;
+}
+.group-div,
+.group-inner {
+  position: absolute;
+  left: 0;
+  width: 423px;
+}
+.group-div {
+  top: 245px;
+  height: 18px;
+  font-size: var(--font-size-xs);
+}
+.group-inner {
+  top: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--c6);
+  height: 57px;
+}
+.login {
+  position: absolute;
+  top: 17px;
+  left: 190px;
+  font-weight: 500;
+}
+.rectangle-parent1 {
+  position: absolute;
+  top: 301px;
+  left: 0;
+  width: 423px;
+  height: 57px;
+  color: var(--color-white);
+}
+.component-parent {
+  position: absolute;
+  top: 187px;
+  left: 0;
+  width: 423px;
+  height: 358px;
+  font-size: var(--font-size-base);
+}
+.group-parent {
+  position: absolute;
+  top: 36px;
+  left: 35px;
+  width: 423px;
+  height: 545px;
+}
+.group-icon,
+.macbook-pro-14-10-inner,
+.rectangle-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 505px;
+  height: 701px;
+}
+.group-icon,
+.macbook-pro-14-10-inner {
+  top: 171px;
+  left: 154px;
+}
+.group-icon {
+  height: 5.09%;
+  width: 11.11%;
+  top: 7.13%;
+  right: 83.13%;
+  bottom: 87.78%;
+  left: 5.75%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.macbook-pro-14-10-child {
+  position: absolute;
+  top: 120px;
+  left: 171px;
+  width: 1341.49px;
+  height: 827.5px;
+}
+.macbook-pro-14-10 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 982px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 31px;
+  color: var(--c6);
+  font-family: var(--font-poppins);
+}
